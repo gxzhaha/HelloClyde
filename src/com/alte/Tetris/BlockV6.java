@@ -1,4 +1,8 @@
-package com.hlju.Tetris;
+package com.alte.Tetris;
+
+/**
+ * 定义大尺寸的图像 I J L O S T Z
+ */
 
 public class BlockV6 {
 	static final boolean[][][] Shape = {
